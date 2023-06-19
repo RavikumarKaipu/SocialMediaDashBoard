@@ -1,0 +1,23 @@
+
+.avatar{
+    width:200px;
+    height:200px;
+    }	
+    .SAVE_BUTTON{
+        background-color: rgb(35, 190, 190);
+        font-family: "roboto";
+        font-weight: bold;
+        color: rgb(233, 141, 21);
+        border: solid 2px black;
+        border-radius: 12px;
+        margin-top: 2%;
+        margin-left: 1%;
+    }
+.para1{
+    background-color: bisque;
+    color:green;
+    font-family: "roboto";
+    font-weight: bold;
+    height: 59px;
+}
+    

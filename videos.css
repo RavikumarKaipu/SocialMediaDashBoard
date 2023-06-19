@@ -1,0 +1,23 @@
+.heading2{
+    
+    color: blueviolet;
+    font-style: oblique;
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 30px;
+    border: solid 4px yellowgreen;
+    background-color: rgb(187, 221, 37);
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 23px;
+}
+.yimg{
+    height: 150px;
+    width:150px;
+    background-size: cover;
+    
+}
+.youPage{
+    border:solid 55px red;
+    
+}

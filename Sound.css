@@ -1,0 +1,15 @@
+.speak{
+    background-color: rgb(93, 215, 215);
+        font-family: "roboto";
+        font-weight: bold;
+        color: rgb(233, 21, 230);
+        border: solid 2px black;
+        border-radius: 12px;
+        
+        margin-left: 1%;
+}
+.mike{
+background-color: bisque;
+height: 100vh;
+background-size: cover;
+}

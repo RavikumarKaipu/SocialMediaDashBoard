@@ -1,0 +1,52 @@
+.main_page1{
+    background-color: rgb(94, 131, 9);
+    margin-left: 400px;
+    margin-right: 400px;
+    border:solid 2px black;
+    border-radius: 20px;
+    background-image: url("https://watermark.lovepik.com/photo/50054/1552.jpg_wh1200.jpg");
+    background-size: cover;
+
+}
+
+.input_1{
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border:solid 2px green;
+    
+}
+.input_2{
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border:solid 2px green;
+}
+.input_3{
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border:solid 2px green;
+}
+.label1{
+    font-family: "roboto";
+    font-weight: bold;
+    color:white;
+}
+.label2{
+    font-family: "roboto";
+    font-weight: bold;
+    color:white;
+}
+.label3{
+    font-family: "roboto";
+    font-weight: bold;
+    color:white;
+}
+.save_button{
+    border-radius: 400px;
+    border:solid 3px rgb(255, 0, 140);
+    margin-bottom: 30px;
+}
+.otp{
+    border-radius: 10px;
+    font-weight:bold;
+}
